@@ -1,0 +1,8 @@
+{
+  "name": "code-review-plugin",
+  "description": "Universal code reviewer checking security, performance, and code quality with live documentation",
+  "version": "1.0.0",
+  "author": {
+    "name": "AlexeyTripleA"
+  }
+}

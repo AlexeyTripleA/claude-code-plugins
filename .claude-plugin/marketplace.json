@@ -1,0 +1,14 @@
+{
+  "name": "claude-code-marketplace",
+  "owner": {
+    "name": "AlexeyTripleA"
+  },
+  "plugins": [
+    {
+      "name": "code-review-plugin",
+      "source": "./code-review-plugin",
+      "description": "Universal code reviewer checking security, performance, and code quality with live documentation"
+    }
+  ]
+}
+
