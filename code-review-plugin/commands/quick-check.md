@@ -1,7 +1,7 @@
 ---
 description: Fast code review checking security, performance, and quality
 allowed-tools: Bash(git:*), Read
-model: claude-3-5-haiku-20241022
+model: claude-sonnet-4-5
 argument-hint: [file-path] or leave empty for staged files
 ---
 

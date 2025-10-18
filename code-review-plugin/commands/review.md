@@ -1,7 +1,7 @@
 ---
 description: Universal code review with medium-depth analysis
 allowed-tools: Bash(git:*), Read, mcp__context7__*
-model: claude-3-5-sonnet-20241022
+model: claude-sonnet-4-5
 argument-hint: [file-path] or leave empty for staged files
 ---
 

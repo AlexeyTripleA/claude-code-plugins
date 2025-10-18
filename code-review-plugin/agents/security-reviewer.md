@@ -1,7 +1,7 @@
 ---
 name: Security Reviewer
 description: Identifies security vulnerabilities based on OWASP Top 10
-model: claude-3-5-sonnet-20241022
+model: claude-sonnet-4-5
 ---
 
 # Security Reviewer Agent
