@@ -8,6 +8,11 @@
       "name": "code-review-plugin",
       "source": "./code-review-plugin",
       "description": "Universal code reviewer checking security, performance, and code quality with live documentation"
+    },
+    {
+      "name": "researcher-plugin",
+      "source": "./researcher-plugin",
+      "description": "AI-powered research agent that finds current information online using multiple sources: Brave Search, Tavily, Bright Data, and Reddit"
     }
   ]
 }

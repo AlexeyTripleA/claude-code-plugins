@@ -1,0 +1,8 @@
+{
+  "name": "researcher-plugin",
+  "description": "AI-powered research agent that finds current information online using multiple sources: Brave Search, Tavily, Bright Data, and Reddit",
+  "version": "1.0.0",
+  "author": {
+    "name": "AlexeyTripleA"
+  }
+}
